@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-14T13:53:21 IST" name="Suite" finished-at="2021-03-14T13:54:59 IST" duration-ms="98079">
+    <groups>
+    </groups>
+    <test started-at="2021-03-14T13:53:21 IST" name="Test" finished-at="2021-03-14T13:54:59 IST" duration-ms="98079">
+      <class name="Academy.CheckMentorPage">
+        <test-method signature="metorPage()[pri:0, instance:Academy.CheckMentorPage@2a32de6c]" started-at="2021-03-14T13:54:34 IST" name="metorPage" finished-at="2021-03-14T13:54:55 IST" duration-ms="20093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- metorPage -->
+        <test-method is-config="true" signature="AfterTestRun()[pri:0, instance:Academy.CheckMentorPage@2a32de6c]" started-at="2021-03-14T13:54:55 IST" name="AfterTestRun" finished-at="2021-03-14T13:54:59 IST" duration-ms="4235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestRun -->
+      </class> <!-- Academy.CheckMentorPage -->
+      <class name="Academy.CheckNavBar">
+        <test-method signature="CheckNavBarMethod()[pri:1, instance:Academy.CheckNavBar@6b19b79]" started-at="2021-03-14T13:54:22 IST" name="CheckNavBarMethod" finished-at="2021-03-14T13:54:34 IST" duration-ms="12390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckNavBarMethod -->
+        <test-method is-config="true" signature="AfterTestRun()[pri:0, instance:Academy.CheckNavBar@6b19b79]" started-at="2021-03-14T13:54:59 IST" name="AfterTestRun" finished-at="2021-03-14T13:54:59 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestRun -->
+      </class> <!-- Academy.CheckNavBar -->
+      <class name="Academy.HomePageTextCheck">
+        <test-method signature="textCheck()[pri:1, instance:Academy.HomePageTextCheck@1d082e88]" started-at="2021-03-14T13:53:21 IST" name="textCheck" finished-at="2021-03-14T13:53:41 IST" duration-ms="19324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textCheck -->
+        <test-method is-config="true" signature="AfterTestRun()[pri:0, instance:Academy.HomePageTextCheck@1d082e88]" started-at="2021-03-14T13:54:59 IST" name="AfterTestRun" finished-at="2021-03-14T13:54:59 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestRun -->
+      </class> <!-- Academy.HomePageTextCheck -->
+      <class name="Academy.LoginPageCalling">
+        <test-method signature="PageNavigate(java.lang.String, java.lang.String)[pri:0, instance:Academy.LoginPageCalling@60704c]" started-at="2021-03-14T13:53:41 IST" name="PageNavigate" data-provider="getData" finished-at="2021-03-14T13:54:00 IST" duration-ms="19678" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[142frsd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageNavigate -->
+        <test-method signature="PageNavigate(java.lang.String, java.lang.String)[pri:0, instance:Academy.LoginPageCalling@60704c]" started-at="2021-03-14T13:54:00 IST" name="PageNavigate" data-provider="getData" finished-at="2021-03-14T13:54:22 IST" duration-ms="21646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gh@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5rtffg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageNavigate -->
+        <test-method is-config="true" signature="AfterTestRun()[pri:0, instance:Academy.LoginPageCalling@60704c]" started-at="2021-03-14T13:54:59 IST" name="AfterTestRun" finished-at="2021-03-14T13:54:59 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestRun -->
+      </class> <!-- Academy.LoginPageCalling -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
